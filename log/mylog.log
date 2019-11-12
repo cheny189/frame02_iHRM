@@ -1,0 +1,5 @@
+2019-11-12 10:28:51,979 INFO [root] [app.py(<module>:40)] - hello
+2019-11-12 11:00:20,190 INFO [root] [Test_iHRM_Emp.py(test_add:22)] - 新增员工信息
+2019-11-12 11:00:20,221 INFO [root] [Test_iHRM_Emp.py(test_update:33)] - 查询员工信息
+2019-11-12 11:00:20,253 INFO [root] [Test_iHRM_Emp.py(test_get:38)] - 获取员工信息
+2019-11-12 11:00:20,268 WARNING [root] [Test_iHRM_Emp.py(test_delete:43)] - 删除员工信息
